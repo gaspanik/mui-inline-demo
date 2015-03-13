@@ -1,0 +1,17 @@
+{
+  "name": "mui-inline-demo",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components",
+    "bower_components",
+    "bower",
+    "_bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "mui": "~0.0.5"
+  }
+}
